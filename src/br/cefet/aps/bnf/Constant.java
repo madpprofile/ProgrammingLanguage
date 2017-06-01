@@ -6,6 +6,7 @@ public class Constant extends Term{
 	public Constant(double constant){
 		super();
 		this.constant = constant;
+		super.setC
 	}
 	
 	@Override
